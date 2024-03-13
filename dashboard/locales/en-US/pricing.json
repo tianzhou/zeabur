@@ -1,17 +1,37 @@
 {
-    "title": "Update Your Plan",
-    "current": "You are currently on: ",
-    "payment-method": "Current Payment method:",
-    "have-coupon": "Have a coupon?",
-    "not-sure": "Not sure about the billings?",
-    "discord": "Join our Discord server to get more details!",
-    "subscribe": "Subscribe",
-    "unsubscribe": "Unsubscribe",
-    "no-card": "No credit card?",
-    "coupon": {
-      "title": "Use a coupon",
-      "description": "Use a coupon to get discount",
-      "placeholder": "Coupon code",
-      "confirm": "Subscribe"
-    }
+  "title": "Upgrade Your Plan",
+  "description": "Choose the best plan to boost your projects.",
+  "plans": {
+    "serverless": {
+      "title": "SERVERLESS PLAN",
+      "description": "Deploy static website and serverless functions in seconds.",
+      "feature-1": "Deploy static and serverless functions",
+      "feature-2": "Free and automatic SSL certificates",
+      "feature-3": "CI / CD out of the box",
+      "feature-4": "Community support",
+      "cta": "That's all I need"
+    },
+    "developer": {
+      "title": "DEVELOPER PLAN",
+      "description": "Deploy both Serverless and Containerized services with priority support.",
+      "feature-1": "All Serverless Plan features",
+      "feature-2": "Deploy containerized services",
+      "feature-3": "Up to 2 vCPU and 4GB Memory for each container",
+      "feature-4": "Deploy prebuilt container images",
+      "feature-5": "Priority technical support",
+      "cta": "Start Deploying"
+    },
+    "team": {
+      "title": "TEAM PLAN",
+      "description": "For teams with fast growing business, focus on performance and scalability.",
+      "feature-1": "All Serverless and Developer features",
+      "feature-2": "Up to 4 vCPU and 16GB Memory for each container",
+      "feature-3": "Priority builds and deployments",
+      "feature-4": "Dedicate support team contact group",
+      "cta": "Boost My Team"
+    },
+    "resource-usages": "Resource usages",
+    "pre-month": "per month",
+    "current-plan": "Your Current Plan"
+  }
 }
