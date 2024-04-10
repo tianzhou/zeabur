@@ -68,5 +68,10 @@
         "Egress": "Egress"
       }
     }
-  }
+  },
+    "empty": {
+      "title-1": "The project has no services now.",
+      "title-2": "You can press cmd+k or ctrl+k to create a service.",
+      "deploy": "Deploy New Service"
+    }
 }
